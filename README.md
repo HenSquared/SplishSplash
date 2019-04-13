@@ -67,7 +67,7 @@ Henry Jones - iOS Engineer
 
 Email : contact@hjones.me 
 
-LinkedIn : https://www.linkedin.com/in/henry-jones
+LinkedIn : https://www.linkedin.com/in/henry-jones-
 
 ## License
 MIT License
