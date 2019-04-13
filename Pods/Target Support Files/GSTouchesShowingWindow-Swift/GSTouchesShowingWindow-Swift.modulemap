@@ -1,0 +1,6 @@
+framework module GSTouchesShowingWindow_Swift {
+  umbrella header "GSTouchesShowingWindow-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

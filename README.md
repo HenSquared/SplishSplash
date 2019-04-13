@@ -5,18 +5,21 @@ SplishSplash is an unofficial iOS client for Unsplash.
 ## Demo
 <h1 align="center">
 
-![alt Text](https://im2.ezgif.com/tmp/ezgif-2-0551eae98357.gif)
+![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-c9b64f34ebd6.gif)
+
+
 
 </h1>
 
 
 ## Screenshots
 <h1 align="center">
-<img src="https://i.imgur.com/XKI3A2B.png" width="250"> 
-<img src="https://i.imgur.com/PKX2bMC.png" width="250"> 
+<img src="https://i.imgur.com/XKI3A2B.png" width="150"> 
 
-<img src="https://i.imgur.com/ZepNrkW.png" width="250"> 
-<img src="https://i.imgur.com/QVrnggd.png" width="250">
+<img src="https://i.imgur.com/PKX2bMC.png" width="150"> 
+
+<img src="https://i.imgur.com/ZepNrkW.png" width="150"> 
+<img src="https://i.imgur.com/QVrnggd.png" width="150">
 </h1>
 
 ## Installation

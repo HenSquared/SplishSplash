@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1FB97BC6E15D9668090BDE92DB91426F"
-               BuildableName = "Pods_SplishSplash.framework"
-               BlueprintName = "Pods-SplishSplash"
+               BlueprintIdentifier = "A58F0AD60EF8FFA21A2FA4235F18514D"
+               BuildableName = "GSTouchesShowingWindow_Swift.framework"
+               BlueprintName = "GSTouchesShowingWindow-Swift"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1FB97BC6E15D9668090BDE92DB91426F"
-            BuildableName = "Pods_SplishSplash.framework"
-            BlueprintName = "Pods-SplishSplash"
+            BlueprintIdentifier = "A58F0AD60EF8FFA21A2FA4235F18514D"
+            BuildableName = "GSTouchesShowingWindow_Swift.framework"
+            BlueprintName = "GSTouchesShowingWindow-Swift"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

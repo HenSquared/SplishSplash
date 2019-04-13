@@ -1,18 +1,22 @@
 PODS:
+  - GSTouchesShowingWindow-Swift (1.0.3)
   - SDWebImage (5.0.1):
     - SDWebImage/Core (= 5.0.1)
   - SDWebImage/Core (5.0.1)
 
 DEPENDENCIES:
+  - GSTouchesShowingWindow-Swift
   - SDWebImage (~> 5.0)
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
+    - GSTouchesShowingWindow-Swift
     - SDWebImage
 
 SPEC CHECKSUMS:
+  GSTouchesShowingWindow-Swift: 445376c1c5b105996458498adcfde9019be6fa27
   SDWebImage: 27dd2c9ea07a2252f94557c9fbb6105ee94b74c9
 
-PODFILE CHECKSUM: 625865f336a4db418ca6c021ae2819c4be0e1f73
+PODFILE CHECKSUM: 560b5051b8e1720b24bf1db563fa2fee2b608c83
 
 COCOAPODS: 1.5.3

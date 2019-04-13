@@ -7,12 +7,20 @@
 //
 
 import UIKit
-//import SDWebImage
+import GSTouchesShowingWindow_Swift
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
+//    var customWindow: GSTouchesShowingWindow?
+//    var window: UIWindow? {
+//        get {
+//            customWindow = customWindow ?? GSTouchesShowingWindow(frame: UIScreen.main.bounds)
+//            return customWindow
+//        }
+//        set { }
+//    }
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
