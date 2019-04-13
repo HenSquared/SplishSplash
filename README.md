@@ -33,11 +33,18 @@ The application will automatically use this value in requests that require an AP
 
 
 
+## Demo
+<h1 align="center">
+
+![alt Text](https://im2.ezgif.com/tmp/ezgif-2-0551eae98357.gif)
+
+</h1>
+
+
 ## Screenshots
-![Alt Text](https://i.ibb.co/WFf0P1W/demo.gif)
-![alt text](https://i.imgur.com/nzZx9Ln.jpg "Main page screenshot")
-![alt text](https://i.imgur.com/1PMss8e.jpg "preview wallpaper page screenshot")
-![alt text](https://i.imgur.com/1PMss8e.jpg "preview wallpaper page screenshot")
+<h1 align="center">
+<img src="https://i.imgur.com/ElldAiO.jpg" width="250"> <img src="https://i.imgur.com/r7NDzEI.jpg" alt="Dynamic blur" width="250"> <img src="https://i.imgur.com/BISnxFr.jpg" alt="Settings" width="250"><img src="https://i.imgur.com/Y73adJK.jpg" alt="Settings" width="250">
+</h1>
 
 
 ## Thank you
