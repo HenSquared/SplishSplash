@@ -21,7 +21,7 @@ class QueryService {
         components.path = "/collections/\(collectionIdentifier)/photos/"
         
         components.queryItems = [URLQueryItem(name: "page", value: "\(pageNumber)"),
-                                 URLQueryItem(name: "client_id", value: AppConstants.key)]
+                                 URLQueryItem(name: "client_id", value: valueForAPIKey(named:"API_CLIENT_ID"))]
         guard let url = components.url else { return }
         URLSession.shared.dataTask(with: url, completionHandler: {
             (data, response, error) in
@@ -49,7 +49,7 @@ class QueryService {
         components.host = AppConstants.host
         components.path = AppConstants.photosPath
         components.path.append(splashItemId)
-        components.queryItems = [URLQueryItem(name: "client_id", value: AppConstants.key)]
+        components.queryItems = [URLQueryItem(name: "client_id", value: valueForAPIKey(named:"API_CLIENT_ID"))]
         guard let url = components.url
             else {return}
         URLSession.shared.dataTask(with: url, completionHandler: {
@@ -79,7 +79,7 @@ class QueryService {
         components.host = AppConstants.host
         components.path = AppConstants.photosPath
         components.queryItems =
-            [URLQueryItem(name:"client_id", value: AppConstants.key),
+            [URLQueryItem(name:"client_id", value: valueForAPIKey(named:"API_CLIENT_ID")),
              URLQueryItem(name: "page", value: "\(pageNumber)"),
              URLQueryItem(name: "per_page", value: "\(perPage)")]
         guard let url = components.url else { return }
@@ -109,7 +109,7 @@ class QueryService {
         components.host = AppConstants.host
         components.path = AppConstants.collectionsPath
         components.queryItems =
-            [URLQueryItem(name:"client_id", value: AppConstants.key),
+            [URLQueryItem(name:"client_id", value: valueForAPIKey(named:"API_CLIENT_ID")),
              URLQueryItem(name: "page", value: "\(pageNumber)"),
              URLQueryItem(name: "per_page", value: "\(perPage)")]
         print(components.url!)
@@ -145,7 +145,7 @@ class QueryService {
         components.host = AppConstants.host
         components.path = AppConstants.photosSearchPath
         components.queryItems =
-            [URLQueryItem(name:"client_id", value: AppConstants.key),
+            [URLQueryItem(name:"client_id", value: valueForAPIKey(named:"API_CLIENT_ID")),
              URLQueryItem(name: "page", value: "\(pageNumber)"),
              URLQueryItem(name: "per_page", value: "\(perPage)"),
              URLQueryItem(name: "query", value: query)]

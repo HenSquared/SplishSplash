@@ -21,7 +21,7 @@ class ImageHelpers {
         DispatchQueue.global(qos: .background).async {
             guard let downloadURL = URL(string: splashItem.links.downloadLocation) else { return }
             var components = URLComponents.init(string: downloadURL.absoluteString)!
-            let apiKeyQueryItem = URLQueryItem(name: "client_id", value: AppConstants.key)
+            let apiKeyQueryItem = URLQueryItem(name: "client_id", value: valueForAPIKey(named:"API_CLIENT_ID"))
             let decoder = JSONDecoder()
             components.queryItems = [apiKeyQueryItem]
             guard let data = try? Data(contentsOf: components.url!) else { return }

@@ -27,6 +27,8 @@
 		D097822621D4392600DEA432 /* ImageCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = D097822421D4392600DEA432 /* ImageCell.xib */; };
 		D097822D21D454EB00DEA432 /* SplashItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D097822C21D454EB00DEA432 /* SplashItem.swift */; };
 		D09B6F9621D6CCCD00BBB30E /* FullImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D09B6F9421D6CCCD00BBB30E /* FullImageViewController.swift */; };
+		D09BB7AC226196670049E79A /* ApiKeys.plist in Resources */ = {isa = PBXBuildFile; fileRef = D09BB7AB226196670049E79A /* ApiKeys.plist */; };
+		D09BB7AE226198EE0049E79A /* ApiKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = D09BB7AD226198EE0049E79A /* ApiKeys.swift */; };
 		D0A63BFD22581744000FBF54 /* URLService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A63BFC22581744000FBF54 /* URLService.swift */; };
 		D0A63C0022581F31000FBF54 /* ImageHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A63BFF22581F31000FBF54 /* ImageHelpers.swift */; };
 		D0E2F31A21DAD7FE002B7344 /* ImageDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E2F31921DAD7FE002B7344 /* ImageDetailsViewController.swift */; };
@@ -65,6 +67,8 @@
 		D097822C21D454EB00DEA432 /* SplashItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashItem.swift; sourceTree = "<group>"; };
 		D09B6F9421D6CCCD00BBB30E /* FullImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullImageViewController.swift; sourceTree = "<group>"; };
 		D09BB7A822618EF60049E79A /* SplishSplash-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SplishSplash-Bridging-Header.h"; sourceTree = "<group>"; };
+		D09BB7AB226196670049E79A /* ApiKeys.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ApiKeys.plist; sourceTree = "<group>"; };
+		D09BB7AD226198EE0049E79A /* ApiKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiKeys.swift; sourceTree = "<group>"; };
 		D0A63BFC22581744000FBF54 /* URLService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLService.swift; sourceTree = "<group>"; };
 		D0A63BFF22581F31000FBF54 /* ImageHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageHelpers.swift; sourceTree = "<group>"; };
 		D0E2F31921DAD7FE002B7344 /* ImageDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageDetailsViewController.swift; sourceTree = "<group>"; };
@@ -143,6 +147,7 @@
 		D097820121D4001400DEA432 = {
 			isa = PBXGroup;
 			children = (
+				D09BB7AB226196670049E79A /* ApiKeys.plist */,
 				D09BB7A822618EF60049E79A /* SplishSplash-Bridging-Header.h */,
 				D097821921D4001500DEA432 /* Info.plist */,
 				D097820C21D4001400DEA432 /* SplishSplash */,
@@ -211,6 +216,7 @@
 			children = (
 				D0E6ADF7224C56BE003BD36C /* QueryService.swift */,
 				D0A63BFC22581744000FBF54 /* URLService.swift */,
+				D09BB7AD226198EE0049E79A /* ApiKeys.swift */,
 			);
 			name = Network;
 			path = "New Group";
@@ -297,6 +303,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D02BDA1C2234C60600715265 /* CardCell.xib in Resources */,
+				D09BB7AC226196670049E79A /* ApiKeys.plist in Resources */,
 				D0E2F31E21E283FC002B7344 /* FullImageCell.xib in Resources */,
 				D02BDA32223883FC00715265 /* HeaderView.xib in Resources */,
 				D0EC6B75220D4F8C0017D2B6 /* SplashDataCell.xib in Resources */,
@@ -376,6 +383,7 @@
 				D097820E21D4001400DEA432 /* AppDelegate.swift in Sources */,
 				D021DFB72224F72A00FDF2A3 /* ImageDetails.swift in Sources */,
 				D0A63C0022581F31000FBF54 /* ImageHelpers.swift in Sources */,
+				D09BB7AE226198EE0049E79A /* ApiKeys.swift in Sources */,
 				D02BDA182234A27F00715265 /* SplashyViewController.swift in Sources */,
 				D02BDA2A22374B3800715265 /* CollectionDescriptionCell.swift in Sources */,
 				D02BDA31223883FC00715265 /* CollectionHeaderView.swift in Sources */,
