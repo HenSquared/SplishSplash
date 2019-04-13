@@ -5,7 +5,7 @@ SplishSplash is an unofficial iOS client for Unsplash, for finding high quality 
 ## Demo
 <h1 align="center">
 
-![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-c9b64f34ebd6.gif)
+![Alt Text](Screens/demo.gif)
 
 
 
