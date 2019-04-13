@@ -2,6 +2,19 @@
 
 SplishSplash is an unofficial iOS client for Unsplash. 
 
+## Demo
+<h1 align="center">
+
+![alt Text](https://im2.ezgif.com/tmp/ezgif-2-0551eae98357.gif)
+
+</h1>
+
+
+## Screenshots
+<h1 align="center">
+<img src="https://i.imgur.com/ElldAiO.jpg" width="250"> <img src="https://i.imgur.com/r7NDzEI.jpg" alt="Dynamic blur" width="250"> <img src="https://i.imgur.com/BISnxFr.jpg" alt="Settings" width="250"><img src="https://i.imgur.com/Y73adJK.jpg" alt="Settings" width="250">
+</h1>
+
 ## Installation
 
  1. Clone the repository
@@ -32,21 +45,6 @@ Replace "SOME_KEY" with your unsplash API Key.
 The application will automatically use this value in requests that require an API Key. 
 
 
-
-## Demo
-<h1 align="center">
-
-![alt Text](https://im2.ezgif.com/tmp/ezgif-2-0551eae98357.gif)
-
-</h1>
-
-
-## Screenshots
-<h1 align="center">
-<img src="https://i.imgur.com/ElldAiO.jpg" width="250"> <img src="https://i.imgur.com/r7NDzEI.jpg" alt="Dynamic blur" width="250"> <img src="https://i.imgur.com/BISnxFr.jpg" alt="Settings" width="250"><img src="https://i.imgur.com/Y73adJK.jpg" alt="Settings" width="250">
-</h1>
-
-
 ## Thank you
 [Brandon Lam](https://b-lam.github.io/) - Developer of [Resplash](https://github.com/b-lam/Resplash), for allowing me to copy his application design. 
 
@@ -59,6 +57,13 @@ SplishSplash is not looking for code contributions. However, if you're intereste
 
 ## Other notes
 SplishSplash was denied an API limit increase which prevents the application from being released on the app store. Because of this, there is no longer any work planned for SplishSplash. 
+
+## Contact 
+Henry Jones - iOS Engineer
+
+Email : contact@hjones.me 
+
+LinkedIn : https://www.linkedin.com/in/henry-jones
 
 ## License
 MIT License
