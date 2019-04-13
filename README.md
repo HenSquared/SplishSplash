@@ -50,7 +50,7 @@ The application will automatically use this value in requests that require an AP
 
 
 ## Thank you
-[Brandon Lam](https://b-lam.github.io/) - Developer of [Resplash](https://github.com/b-lam/Resplash), for allowing me to copy his application design. 
+[Brandon Lam](https://b-lam.github.io/) - Developer of [Resplash](https://github.com/b-lam/Resplash), which inspired the design and development of SplishSplash
 
 [/r/iOSProgramming](https://reddit.com/r/iosprogramming) for lots of support in my learning journey. 
 
