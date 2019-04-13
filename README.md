@@ -34,7 +34,7 @@ The application will automatically use this value in requests that require an AP
 
 
 ## Screenshots
-![alt text](https://i.ibb.co/WFf0P1W/demo.gif "Main page screenshot")
+![Alt Text](https://i.ibb.co/WFf0P1W/demo.gif)
 ![alt text](https://i.imgur.com/nzZx9Ln.jpg "Main page screenshot")
 ![alt text](https://i.imgur.com/1PMss8e.jpg "preview wallpaper page screenshot")
 ![alt text](https://i.imgur.com/1PMss8e.jpg "preview wallpaper page screenshot")
