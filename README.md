@@ -1,6 +1,6 @@
 # SplishSplash
 
-SplishSplash is an unofficial iOS client for Unsplash. 
+SplishSplash is an unofficial iOS client for Unsplash, for finding high quality images. 
 
 ## Demo
 <h1 align="center">
